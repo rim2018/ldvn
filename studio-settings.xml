@@ -8,4 +8,7 @@
         <functionality id="oneToOneIndex"
                        state="ENABLE"/>
     </functionalitySettings>
+    <settings>
+        <makePluralForm>false</makePluralForm>
+    </settings>
 </studio>
