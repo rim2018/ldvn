@@ -62,7 +62,8 @@
                     <columns>
                         <column id="client"/>
                         <column id="nummer"/>
-                        <column id="betrag"/>
+                        <column id="betrag"
+                                align="RIGHT"/>
                     </columns>
                     <rows datasource="ubsDs"/>
                     <rowsCount/>
